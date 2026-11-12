@@ -1,6 +1,6 @@
 # ClaxTeam
 
-Sprechen, ohne etwas zu wollen.
+Sprechen, ohne etwas zu fordern.
 
 Clax ist eine Arbeitsweise für Mensch und KI im selben Team. Sie ist
 offen, personenneutral und an kein Werkzeug gebunden.
